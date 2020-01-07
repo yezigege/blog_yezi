@@ -1,4 +1,6 @@
 *.xml
 .idea
-/.idea
-*/__pycache__
+*.pyc
+*.nohup.out
+my_blog/nohup.out
+my_blog/my_blog/__pycache__
