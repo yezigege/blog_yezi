@@ -1,7 +1,6 @@
 from django.urls import path  # 引入 path
 from . import views
 
-
 app_name = 'article'  # 正在部署的应用的名称
 
 
